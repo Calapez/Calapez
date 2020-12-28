@@ -4,7 +4,7 @@
 
 💻 I'm a portuguese Software Engineer with a huge passion for Android development.
 
-Android Developer @ [Bluecover](https://www.bluecover.pt/)
+Software Developer @ [Bluecover](https://www.bluecover.pt/)
 
 ### Currently learning more about 👨‍💻 
 - Kotlin
