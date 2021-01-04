@@ -12,4 +12,5 @@ Android Developer @ [Bluecover](https://www.bluecover.pt/)
 - Jetpack Compose 
 
 I recently launched an app on Google Play! 🚀<br><br>
+Download it now!<br>
 [![Play Store Badge](https://stuff.mit.edu/afs/sipb/project/android/docs/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=pt.bruno.parksoflisbon)
