@@ -7,9 +7,8 @@
 Android Developer @ [Bluecover](https://www.bluecover.pt/)
 
 ### Currently learning more about 👨‍💻 
-- Kotlin
 - MVVM architecture 
-- Jetpack Compose 
+- Android Jetpack 
 
 I recently launched an app on Google Play! 🚀<br><br>
 Download it now!<br>
