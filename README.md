@@ -1,6 +1,6 @@
 ### Hi there, I'm Bruno! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-calapez-ponte-6ab83658/)](https://www.linkedin.com/in/bruno-calapez-ponte-6ab83658/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoponte)](https://www.linkedin.com/in/brunoponte)
 
 💻 I'm a portuguese Software Engineer with a huge passion for Android development.
 
