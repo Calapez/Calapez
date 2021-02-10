@@ -6,7 +6,7 @@
 
 Android Developer @ [Bluecover](https://www.bluecover.pt/)
 
-### Currently learning more about 👨‍💻 
+### Recently in love with: 👨‍💻 
 - MVVM architecture 
 - Android Jetpack 
 
