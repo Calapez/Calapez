@@ -4,7 +4,7 @@
 
 💻 I'm a portuguese Software Engineer with a huge passion for Android development.
 
-Android Developer @ [Bluecover](https://www.bluecover.pt/)
+Mobile Developer @ [Xpand IT](https://www.xpand-it.com/)
 
 ### In love with:  
 - MVVM architecture 
