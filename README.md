@@ -10,6 +10,6 @@ Mobile Developer @ [Xpand IT](https://www.xpand-it.com/)
 - Jetpack Compose 
 - Kotlin Multiplatform Mobile (KMM) 
 
-I launched an app on Google Play! 🚀<br><br>
+I launched a movie guessing game 🎬 on Google Play! 🚀<br><br>
 Download it now!<br>
-[![Play Store Badge](https://stuff.mit.edu/afs/sipb/project/android/docs/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=pt.bruno.parksoflisbon)
+[![Play Store Badge](https://stuff.mit.edu/afs/sipb/project/android/docs/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.brunoponte.movietrivia)
