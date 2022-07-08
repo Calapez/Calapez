@@ -12,4 +12,5 @@ Mobile Developer @ [Xpand IT](https://www.xpand-it.com/)
 <br>
 <h3>I launched a movie guessing game 🎬 on Google Play! 🚀</h3>
 <h3>Download it now!</h3>
+
 [![Play Store Badge](https://stuff.mit.edu/afs/sipb/project/android/docs/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.brunoponte.movietrivia)
