@@ -4,7 +4,7 @@
 
 💻 I'm a portuguese Software Engineer with a huge passion for Android development.
 
-Mobile Developer @ [Xpand IT](https://www.xpand-it.com/)
+Android Developer @ [Faurecia Aptoide Automotive](https://faurecia-aptoide.com/)
 
 ### Currently learning more about:  
 - Jetpack Compose 
